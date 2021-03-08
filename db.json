@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "learn react",
+      "day": "March 6 2021",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "name": "Do laundry",
+      "day": "March 6 2021",
+      "reminder": false
+    },
+    {
+      "name": "Interveiw backyard ",
+      "day": "today",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
